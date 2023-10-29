@@ -1,0 +1,39 @@
+* {
+    margin: 10px;
+    padding: 0;
+}
+
+#gameDiv {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    width: 700px;
+    height: 200px;
+    text-shadow: 0 0 3px white;
+}
+
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    padding: 5px;
+    background: blue;
+    color: white;
+}
+#playerText{
+    color: red;
+}
+#computerText{
+    color: blue;
+}
+#resultText{
+    color: purple;
+}
+h1 {
+    padding-left: 15px;
+}
